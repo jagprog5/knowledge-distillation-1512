@@ -1,0 +1,66 @@
+BETA 0.05:
+Epoch 5: Class_accuracy: 96.01%
+Epoch 10: Class_accuracy: 97.88%
+Epoch 15: Class_accuracy: 98.41%
+Epoch 20: Class_accuracy: 98.64%
+Epoch 25: Class_accuracy: 98.86%
+Epoch 30: Class_accuracy: 98.85%
+Epoch 35: Class_accuracy: 98.98%
+Epoch 40: Class_accuracy: 99.05%
+Epoch 45: Class_accuracy: 99.12%
+Epoch 50: Class_accuracy: 99.21%
+cosine similarity: 0.44566250807591434
+
+BETA 0.2:
+Epoch 5: Class_accuracy: 59.80%
+Epoch 10: Class_accuracy: 92.00%
+Epoch 15: Class_accuracy: 95.44%
+Epoch 20: Class_accuracy: 96.64%
+Epoch 25: Class_accuracy: 97.40%
+Epoch 30: Class_accuracy: 97.78%
+Epoch 35: Class_accuracy: 98.12%
+Epoch 40: Class_accuracy: 98.27%
+Epoch 45: Class_accuracy: 98.43%
+Epoch 50: Class_accuracy: 98.67%
+5.552277148639679 5.337101548488607
+0.38036399530087606
+
+BETA 0.4:
+Epoch 5: Class_accuracy: 31.72%
+Epoch 10: Class_accuracy: 42.56%
+Epoch 15: Class_accuracy: 47.69%
+Epoch 20: Class_accuracy: 63.16%
+Epoch 25: Class_accuracy: 85.96%
+Epoch 30: Class_accuracy: 92.99%
+Epoch 35: Class_accuracy: 95.19%
+Epoch 40: Class_accuracy: 96.51%
+Epoch 45: Class_accuracy: 96.60%
+Epoch 50: Class_accuracy: 97.19%
+5.097755014336803 5.016300443409149
+0.31655965030022637
+
+BETA 0.5:
+Epoch 5: Class_accuracy: 35.78%
+Epoch 10: Class_accuracy: 39.43%
+Epoch 15: Class_accuracy: 45.95%
+Epoch 20: Class_accuracy: 48.66%
+Epoch 25: Class_accuracy: 58.85%
+Epoch 30: Class_accuracy: 76.08%
+Epoch 35: Class_accuracy: 85.67%
+Epoch 40: Class_accuracy: 90.95%
+Epoch 45: Class_accuracy: 93.63%
+Epoch 50: Class_accuracy: 94.68%
+
+4.991617927465608 4.891930021603665
+0.2940496613939973
+
+==========================================
+
+alpha of 1 at end:
+Epoch 5: Class_accuracy: 97.75%
+Epoch 10: Class_accuracy: 97.64%
+Epoch 15: Class_accuracy: 97.52%
+Epoch 20: Class_accuracy: 97.42%
+Epoch 25: Class_accuracy: 97.48%
+Epoch 30: Class_accuracy: 97.42%
+Epoch 35: Class_accuracy: 97.59%
